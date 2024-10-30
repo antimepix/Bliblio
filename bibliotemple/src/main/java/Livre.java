@@ -15,7 +15,6 @@ public class Livre {
         this.exemplairesDisponibles = exemplairesDisponibles;
     }
 
-    // Getters et Setters
     public String getIsbn() {
         return isbn;
     }
