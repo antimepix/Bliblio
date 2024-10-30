@@ -4,12 +4,10 @@ import java.util.List;
 public class Utilisateur {
     private String id;
     private HashMap<String, Livre> livresLoues;
-    private List<Utilisateur> catalogue;
 
     public Utilisateur(String id) {
         this.id = id;
         this.livresLoues = new HashMap<>();
-        this.catalogue = JsonUtil.chargerCatalogue("C:\\Users\\Utilisateur\\IdeaProjects\\bibliotemple\\src\\utilisateur.json");
     }
 
     public boolean louerLivre(Livre livre) {
