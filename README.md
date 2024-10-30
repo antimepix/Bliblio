@@ -6,9 +6,14 @@ En marquant 1 sur la console on demande de rentrer un identifiant, une fois conn
 Dans un second temps une interface a été créé à fin de rendre chaqu'une des options plus simple à tester
 
 1 permet de voir quel livre sont présent dans le json 
+
 2 permet de voir à partir de l'isbn les informations sur un livre ( titre / auteur / description / prix)
+
 3 en entrant l'isbn du livre on peut louer celui-ci (3 max et que s'il y a accès d'explaire sinon message d'erreur
+
 4 permet de rendre un livre et cela que si celui-ci à déjà été emprunté
+
 5 permet d'exporter le catalogue (pas réussi)
+
 6 permet de quiter (Au revoir !)
 
