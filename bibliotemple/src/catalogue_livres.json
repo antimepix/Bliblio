@@ -1,0 +1,26 @@
+[
+  {
+    "isbn": "1",
+    "titre": "etre ou ne pas etre",
+    "description": "De la pure philo",
+    "auteur": "Gildas Guyomard",
+    "prix": 10.0,
+    "exemplairesDisponibles": 1
+  },
+  {
+    "isbn": "2",
+    "titre": "Un livre utile",
+    "description": "Un roman sur l'inutilité",
+    "auteur": "Christian Guyomard",
+    "prix": 12.0,
+    "exemplairesDisponibles": 3
+  },
+  {
+    "isbn": "3",
+    "titre": "Un livre askip",
+    "description": "Il semblerait que ce soit un livre",
+    "auteur": "Anthime Guyomard",
+    "prix": 15.0,
+    "exemplairesDisponibles": 6
+  }
+]
